@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oii! Eu sou o William Brendo  👋
 
-<!--
-**Brendo-will/brendo-will** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href = "https://github.com.br/brendo-will">
+       </div>
 
-Here are some ideas to get you started:
+[![Brendo-will GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brendo-will&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendo-will&hide_progress=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/brendo-will/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+  </div>
+
+ 
