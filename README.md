@@ -38,8 +38,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/brendo-will/brendo-will/output/snake.svg" alt="Snake animation" />
-
-###
